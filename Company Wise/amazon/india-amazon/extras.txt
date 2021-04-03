@@ -1,0 +1,8 @@
+1. Distance between two binary tree nodes
+2. Longest palindromic substring
+3. Longest increasing & decreasing subsequence
+4. Number of push & pop operations required when you have to implement a stack using 
+   a queue? [Non Coding]
+5. Number of chocolates with each person is given. A person can give chocolate to the 	   next one. Find number of moves to make each student have equal number of chocolates?
+6. Find mean median & mode.
+7. Program for round robin scheduling
